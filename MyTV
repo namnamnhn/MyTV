@@ -324,3 +324,11 @@ http://192.168.1.1:8808/udp/232.84.3.93:11494
 http://192.168.1.1:8808/udp/232.84.3.91:11506
 #EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",E Channel (Test)
 http://192.168.1.1:8808/udp/232.84.3.90:11512
+#EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",801
+http://192.168.1.1:8808/udp/232.84.2.175:10858
+#EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",802
+http://192.168.1.1:8808/udp/232.84.2.176:10864
+#EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",803
+http://192.168.1.1:8808/udp/232.84.2.195:10954
+#EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",804
+http://192.168.1.1:8808/udp/232.84.2.196:10960
